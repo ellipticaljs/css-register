@@ -1,7 +1,7 @@
 {
   "name": "elliptical-css-register",
   "description": "document registration of elliptical custom css tags",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "main": "dist/elliptical.css-register.js",
   "authors": [
     "S. Francis"
